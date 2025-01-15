@@ -51,7 +51,7 @@ Gulp se encarga de las siguientes tareas:
 El archivo `gulpfile.js` contiene la configuración de estas tareas. Además, se ha definido un script en el archivo `package.json` para ejecutar Gulp en modo de desarrollo:
 ```json
 "scripts": {
-  "dev": "gulp dev"
+  "dev": "gulp"
 }
 ```
 
